@@ -1,0 +1,1 @@
+void encrupt (char *message);
